@@ -1,0 +1,2 @@
+# Module de.swagner.GwtDefinition
+# RPC service class, partial path of RPC policy file
